@@ -1,0 +1,61 @@
+.title{
+	font-family:courier;
+	text-align:center;
+	font-size:50px;
+	margin-bottom:50px;
+	color:#E19AAB;
+}
+#todoForm{
+	text-align:center;
+}
+#todoInput{
+	width:400px;
+	height:45px;
+	border-color:black;
+	font-size:20px;
+	font-weight:bold;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+	text-align:center;
+}
+	
+Button{
+	width:150px;
+	height:45px;
+	border-color:black;
+	border-radius:20px;
+	background-color:black;
+	color:white;
+}
+
+#removeItem{
+	width:150px;
+	height:35px;
+	border-color:black;
+}
+
+#blok{
+width:700px;
+height:550px;
+background-color:#414141;
+color:white;
+border:2px solid white;
+border-radius:20px;
+margin-left:280px;
+}
+
+#clear{
+font-size:20px;
+margin-left:450px;
+border-radius:20px;
+width:80px;
+height:30px;
+}
+ul li{
+font-size:20px;
+color:white;
+}
+#todoButton{
+font-size:20px;
+}
